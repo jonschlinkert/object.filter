@@ -1,5 +1,5 @@
 /*!
- * filter-object <https://github.com/jonschlinkert/filter-object>
+ * object.filter <https://github.com/jonschlinkert/object.filter>
  *
  * Copyright (c) 2014 Jon Schlinkert, contributors.
  * Licensed under the MIT License

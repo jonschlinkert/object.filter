@@ -1,13 +1,13 @@
-# filter-object [![NPM version](https://badge.fury.io/js/filter-object.svg)](http://badge.fury.io/js/filter-object)
+# object.filter [![NPM version](https://badge.fury.io/js/object.filter.svg)](http://badge.fury.io/js/object.filter)
 
 
-> Create a new object filtered to have only the properties for which the callback returns true.
+> Create a new object filtered to have only properties for which the callback returns true.
 
 ## Install
 #### Install with [npm](npmjs.org):
 
 ```bash
-npm i filter-object --save-dev
+npm i object.filter --save-dev
 ```
 
 ## Run tests
@@ -19,7 +19,7 @@ npm test
 ## Usage
 
 ```js
-var filter = require('filter-object');
+var filter = require('object.filter');
 
 filter({a: 'a', b: 'b', c: 'c'}, function (value, key, obj) {
   return key !== 'b';
@@ -47,10 +47,6 @@ filter({a: 'a', b: 'b', c: 'c'}, function (value, key, obj) {
   - [object-size](https://github.com/jonschlinkert/object-size)
   - [omit-empty](https://github.com/jonschlinkert/omit-empty)
   - [reduce-object](https://github.com/jonschlinkert/reduce-object)
-
-
-## API
-
 
 ## Author
 

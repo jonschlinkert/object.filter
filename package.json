@@ -1,23 +1,23 @@
 {
-  "name": "filter-object",
+  "name": "object.filter",
   "description": "Create a new object filtered to have only properties for which the callback returns true.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/filter-object",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/object.filter",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jonschlinkert/filter-object.git"
+    "url": "git://github.com/jonschlinkert/object.filter.git"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/filter-object/issues"
+    "url": "https://github.com/jonschlinkert/object.filter/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jonschlinkert/filter-object/blob/master/LICENSE-MIT"
+      "url": "https://github.com/jonschlinkert/object.filter/blob/master/LICENSE-MIT"
     }
   ],
   "main": "index.js",
