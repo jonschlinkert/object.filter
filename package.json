@@ -1,6 +1,6 @@
 {
   "name": "filter-object",
-  "description": "Create a new object filtered to have only the properties for which the callback returns true.",
+  "description": "Create a new object filtered to have only properties for which the callback returns true.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/filter-object",
   "author": {
